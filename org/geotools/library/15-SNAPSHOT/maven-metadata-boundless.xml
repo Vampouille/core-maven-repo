@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.geotools</groupId>
+  <artifactId>library</artifactId>
+  <version>15-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20151128.120338</timestamp>
+      <buildNumber>82</buildNumber>
+    </snapshot>
+    <lastUpdated>20151130225511</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>15-20151128.120338-82</value>
+        <updated>20151128120338</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

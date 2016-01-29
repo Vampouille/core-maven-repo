@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jan 29 15:14:18 CET 2016
+http\://maven.seasar.org/maven2/.error=
+https\://raw.githubusercontent.com/geonetwork/core-maven-repo/tree/283a9f461d7d4b2a2b926298d91e8a5800a5f122/.error=
+http\://maven.seasar.org/maven2/.lastUpdated=1454062944128
+http\://mvnrepository.com/artifact/.error=
+https\://raw.githubusercontent.com/vampouille/core-maven-repo/test/.lastUpdated=1454076858198
+https\://raw.githubusercontent.com/geonetwork/core-maven-repo/gt-wms-sld/.error=
+https\://raw.githubusercontent.com/geonetwork/core-maven-repo/gt-wms-sld/.lastUpdated=1454062943387
+https\://raw.githubusercontent.com/geonetwork/core-maven-repo/tree/283a9f461d7d4b2a2b926298d91e8a5800a5f122/.lastUpdated=1454076229605
+http\://mvnrepository.com/artifact/.lastUpdated=1454062943581
+https\://raw.githubusercontent.com/vampouille/core-maven-repo/test/.error=
